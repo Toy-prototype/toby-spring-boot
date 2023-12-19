@@ -9,18 +9,23 @@ import org.springframework.web.servlet.DispatcherServlet;
 public class HellobootApplication {
 
 	public static void main(String[] args) {
-		GenericWebApplicationContext applicationContext = new GenericWebApplicationContext();
+		GenericWebApplicationContext applicationContext = new GenericWebApplicationContext() {
+			@Override
+			protected void onRefresh() {
+				super.onRefresh();
+
+				ServletWebServerFactory factory = new TomcatServletWebServerFactory();
+				WebServer webServer = factory.getWebServer(servletContext ->
+						servletContext.addServlet(
+								"dispatcherServlet",
+								new DispatcherServlet(this)
+						).addMapping("/*")
+				);
+				webServer.start();
+			}
+		};
 		applicationContext.registerBean(HelloController.class);
 		applicationContext.registerBean(SimpleHelloService.class);
 		applicationContext.refresh(); //구성 정보를 이용해 컨테이너 초기화 작업 수행
-
-		ServletWebServerFactory factory = new TomcatServletWebServerFactory();
-		WebServer webServer = factory.getWebServer(servletContext ->
-				servletContext.addServlet(
-						"dispatcherServlet",
-						new DispatcherServlet(applicationContext)
-				).addMapping("/*")
-		);
-		webServer.start();
 	}
 }
