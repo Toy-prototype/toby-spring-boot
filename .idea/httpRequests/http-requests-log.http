@@ -1,0 +1,339 @@
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-21T180639.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-21T163617.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T153926.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T153748.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T151754.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T144526.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T144315.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T141554.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T141251.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T024523.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T002803.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T002758.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T002601.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T002004.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T001711.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T000917.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+content-type: text/plain;charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T000913.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+content-type: text/plain;charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T000811.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T000652.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T000607.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T000538.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T000356.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T000311.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T000255.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-20T000243.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T235837.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T235355.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T235310.404.html
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T230656.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T225412.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T225352.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T223813.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=재우
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T223803.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=재우
+Content-Type: text/plain;charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T223551.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=재우
+Content-Type: text/plain;charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T223535.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Content-Type: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T223432.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Content-Type: text/plain;charset=UTF-8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-19T223349.200.txt
+
+###
+
