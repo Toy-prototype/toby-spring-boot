@@ -3,6 +3,24 @@ Connection: Keep-Alive
 User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
 Accept-Encoding: br,deflate,gzip,x-gzip
 
+<> 2023-12-22T192048.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-22T191836.200.txt
+
+###
+
+GET http://localhost:8080/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
 <> 2023-12-22T163334.200.txt
 
 ###
