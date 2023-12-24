@@ -1,13 +1,11 @@
 package tobyspring.config.autoconfig;
 
+import tobyspring.config.MyConfigurationProperties;
+
+@MyConfigurationProperties(prefix = "server")
 public class ServerProperties {
     private String contextPath;
     private int port;
-
-    public ServerProperties(String contextPath, int port) {
-        this.contextPath = contextPath;
-        this.port = port;
-    }
 
     public String getContextPath() {
         return contextPath;
@@ -15,5 +13,13 @@ public class ServerProperties {
 
     public int getPort() {
         return port;
+    }
+
+    public void setContextPath(String contextPath) {
+        this.contextPath = contextPath;
+    }
+
+    public void setPort(int port) {
+        this.port = port;
     }
 }

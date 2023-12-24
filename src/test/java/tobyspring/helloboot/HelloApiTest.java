@@ -13,7 +13,7 @@ public class HelloApiTest {
     public void test() {
         TestRestTemplate restTemplate = new TestRestTemplate();
         ResponseEntity<String> res =
-                restTemplate.getForEntity("http://localhost:8080/hello?name={name}", String.class, "jaeWoo");
+                restTemplate.getForEntity("http://localhost:9090/app/hello?name={name}", String.class, "jaeWoo");
 
         assertThat(res.getStatusCode()).isEqualTo(HttpStatus.OK);
         assertThat(res.getHeaders().getFirst(HttpHeaders.CONTENT_TYPE)).startsWith(MediaType.TEXT_PLAIN_VALUE);
