@@ -12,8 +12,11 @@ import tobyspring.config.MyAutoConfiguration;
 public class TomcatServletWebServerFactoryConfig {
     @Bean("tomcatServletWebServerFactory")
     @ConditionalOnMissingBean
-    public ServletWebServerFactory servletWebServerFactory() {
-        return new TomcatServletWebServerFactory();
+    public ServletWebServerFactory servletWebServerFactory(ServerProperties properties) {
+        TomcatServletWebServerFactory factory = new TomcatServletWebServerFactory();
+        factory.setContextPath(properties.getContextPath());
+        factory.setPort(properties.getPort());
+        return factory;
     }
 
 }
