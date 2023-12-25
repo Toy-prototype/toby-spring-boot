@@ -13,13 +13,13 @@ public class JdbcTemplateTest {
 
     @BeforeEach
     public void init() {
-        jdbcTemplate.execute("create table if not exists hello(id varchar(10) primary key, name varchar(20))");
+        jdbcTemplate.execute("create table if not exists hello(name varchar(20) primary key, count int)");
     }
 
     @Test
     public void test() {
-        jdbcTemplate.execute("insert into hello values('1', 'Spring')");
-        jdbcTemplate.execute("insert into hello values('2', 'jaeWoo')");
+        jdbcTemplate.execute("insert into hello values('Spring', 1)");
+        jdbcTemplate.execute("insert into hello values('jaeWoo', 1)");
 
         Long count = jdbcTemplate.queryForObject("select count(*) from hello", Long.class);
 
