@@ -1,1 +1,4 @@
 GET http://localhost:9090/app/hello?name=jaewoo
+
+### count
+GET http://localhost:9090/app/count?name=jaewoo

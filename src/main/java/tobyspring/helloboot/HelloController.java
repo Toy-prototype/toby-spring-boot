@@ -17,4 +17,10 @@ public class HelloController {
     public String hello(String name) {
         return helloService.sayHello(Objects.requireNonNull(name));
     }
+
+
+    @GetMapping("/count")
+    public String count(String name) {
+        return name + ": " + helloService.countOf(name);
+    }
 }
