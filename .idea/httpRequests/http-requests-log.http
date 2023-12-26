@@ -3,6 +3,51 @@ Connection: Keep-Alive
 User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
 Accept-Encoding: br,deflate,gzip,x-gzip
 
+<> 2023-12-26T145006.200.txt
+
+###
+
+GET http://localhost:9090/app/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-26T145005.200.txt
+
+###
+
+GET http://localhost:9090/app/count?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-26T145003.200.txt
+
+###
+
+GET http://localhost:9090/app/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-26T145001.200.txt
+
+###
+
+GET http://localhost:9090/app/hello?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-26T144824.404.json
+
+###
+
+GET http://localhost:9090/app/count?name=jaewoo
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
 <> 2023-12-25T233928.200.txt
 
 ###
@@ -402,52 +447,6 @@ User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
 Accept-Encoding: br,deflate,gzip,x-gzip
 
 <> 2023-12-19T230656.200.txt
-
-###
-
-GET http://localhost:8080/hello?name=jaewoo
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2023-12-19T225412.200.txt
-
-###
-
-GET http://localhost:8080/hello?name=jaewoo
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2023-12-19T225352.200.txt
-
-###
-
-GET http://localhost:8080/hello?name=jaewoo
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2023-12-19T223813.200.txt
-
-###
-
-GET http://localhost:8080/hello?name=재우
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2023-12-19T223803.200.txt
-
-###
-
-GET http://localhost:8080/hello?name=재우
-Content-Type: text/plain;charset=UTF-8
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2023-12-19T223551.200.txt
 
 ###
 
